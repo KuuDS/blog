@@ -1,5 +1,5 @@
 public:: true
-tag:h: logseq
+tags:: logseq
 
 -
 - 启用多版本控制
